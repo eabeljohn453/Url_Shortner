@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+
+# Logs
+/log/*
+
+# Temporary files
+/tmp/*
+
+# Storage
+/storage/*
+
+# Database credentials
+config/master.key
+
+# Kamal secrets
+.kamal/secrets
