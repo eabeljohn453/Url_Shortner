@@ -46,7 +46,7 @@ group :development, :test do
   gem "brakeman", require: false
 
   gem "rails", "~> 8.1.3", ">= 8.1.3.1"
-  gem "json", "2.21.2"
+  gem "json", "3.1.0"
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
